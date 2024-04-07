@@ -3,9 +3,9 @@ This is a simple Hangman game built using React. It provides an interactive inte
 
 ## Preview
 
-![Preview](https://drive.google.com/file/d/1f0tugnNYJIrLQNPHjakgvQuEVNMXEZt8/)
+![Preview](screenshots/image1.png)
 
-![Preview](https://drive.google.com/file/d/1mCXjJNOtwjgrlwTdlJ46pp0q3xrHrgAg/)
+![Preview](screenshots/image2.png)
 
 ## Features
 Interactive Gameplay: Users can input letters to guess the hidden word.
